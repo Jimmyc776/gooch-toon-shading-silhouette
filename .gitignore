@@ -1,0 +1,20 @@
+# Build artifacts
+/build/
+/cmake-build-*/
+/out/
+/dist/
+*.o
+*.obj
+*.exe
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.user
+
+# Mac / OS
+.DS_Store
+
+# External libs if large or separately obtainable
+/external/
